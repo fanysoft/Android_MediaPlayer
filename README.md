@@ -4,6 +4,7 @@ Media Player with custom Subtitles solution
 Android Media Player 
 https://developer.android.com/guide/topics/media/mediaplayer
 capable of playing local video file in /res/raw or at internet Url
+
 Custom subtitles logic
 
 screenshot
