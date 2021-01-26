@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:05,000
+First line of first subtitle.
+Second line of first subtitle.
+
+2
+00:00:07,000 --> 00:00:10,000
+Second subtitle. Single line.
