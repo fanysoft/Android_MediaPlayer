@@ -8,4 +8,4 @@ capable of playing local video file in /res/raw or at internet Url
 Custom subtitles logic
 
 screenshot
-http://www.vancura.cz/programing/Android/Apps/demo/MediaPlayer/device-2021-01-26-144000.png
+http://www.vancura.cz/programing/Android/Demo/MediaPlayer/device-2021-01-26-144000.png
