@@ -357,7 +357,7 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
                 // PROBLEM - if throws error and it is posssible to play as local file - than check your video file format
                 // see https://stackoverflow.com/questions/11540076/android-mediaplayer-error-1-2147483648
                 String videoUrl = "";
-                videoUrl = "https://www.vancura.cz/programing/Android/Apps/Dochazka/Help/Big_Buck_Bunny_360_10s_2MB.mp4";
+                videoUrl = "http://www.vancura.cz/programing/Android/Demo/MediaPlayer/Big_Buck_Bunny_360_10s_2MB.mp4";
                 actionBar.setTitle("Playing video from internet");
                 Log.d(TAG, "video source from internet - videoUrl=" + videoUrl);
                 mediaPlayer.setDataSource(videoUrl);
